@@ -2,8 +2,6 @@
 
 **Live Website**: [https://rainbow-chimera-44c384.netlify.app/]
 
-**Requirement Document**: [https://github.com/programming-hero-web-course-4/b10a8-gadget-heaven-Ssiyam0123]
-
 ## React Fundamental Concepts Used
 - **JSX**: Used for rendering HTML-like syntax in React components.
 - **Components**: Functional and class-based components for UI and logic.
@@ -24,6 +22,4 @@
 4. **Sorting by Price**: Sort products in ascending or descending price order.
 5. **Dynamic Notifications**: Toast notifications for actions like adding to cart or purchasing items.
 
-
-![PDF Preview]("D:\Downloads\B10-A8-gadget-heaven-main\B10-A8-gadget-heaven-main\Batch-10_Assignment-08.pdf")
 
