@@ -27,17 +27,17 @@ const router = createBrowserRouter([
       {
         path: '/',
         element: <Home />,
-        loader: () => fetch('../category.json'), 
+        loader: () => fetch(`${import.meta.env.BASE_URL}category.json`), 
         children: [
           {
             path: '/', 
             element: <AllCards />,
-            loader: () => fetch('../data.json'), 
+            loader: () => fetch(`${import.meta.env.BASE_URL}data.json`), 
           },
           {
             path: '/category/:category',
             element: <AllCards />,
-            loader: () => fetch('../data.json'), 
+            loader: () => fetch(`${import.meta.env.BASE_URL}data.json`), 
           },
         ]
       },
@@ -68,7 +68,7 @@ const router = createBrowserRouter([
       {
         path: '/news',
         element: <NewsPage></NewsPage>,
-        loader: () => fetch('../news.json')
+        loader: () => fetch(`${import.meta.env.BASE_URL}news.json`)
       }
     ]
   }
