@@ -71,8 +71,10 @@ const router = createBrowserRouter([
         loader: () => fetch('../news.json')
       }
     ]
-  },
-]);
+  }
+], {
+  basename: import.meta.env.DEV ? "/" : "/Gadget-Heaven"
+});
 
 
 
