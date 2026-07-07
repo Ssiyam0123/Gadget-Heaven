@@ -1,0 +1,21 @@
+[
+
+    {
+        "categoryId": 1,
+        "categoryName": "Phones",
+        "description": "Latest smartphones from various brands.",
+        "productCount": 6
+    },
+    {
+        "categoryId": 2,
+        "categoryName": "Computers",
+        "description": "High-performance laptops and desktops.",
+        "productCount": 2
+    },
+    {
+        "categoryId": 3,
+        "categoryName": "Accessories",
+        "description": "Gadgets and accessories for smartphones and computers.",
+        "productCount": 2
+    }
+]

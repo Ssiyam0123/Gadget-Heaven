@@ -1,0 +1,112 @@
+[
+    {
+        "productId": 1,
+        "productTitle": "iPhone 14 Pro",
+        "productImage": "https://i.ibb.co.com/7bSwDwv/download.jpg",
+        "category": "phones",
+        "price": 799,
+        "description": "The latest Apple smartphone with advanced features and powerful performance.",
+        "specification": ["6.1-inch OLED display", "128GB storage", "Triple-camera system"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "productId": 2,
+        "productTitle": "Samsung Galaxy S22",
+        "productImage": "https://i.ibb.co.com/Lghzw5X/download.jpg",
+        "category": "phones",
+        "price": 699,
+        "description": "Samsung's high-performance smartphone with a stunning AMOLED display.",
+        "specification": ["6.2-inch AMOLED display", "256GB storage", "Quad-camera system"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "productId": 3,
+        "productTitle": "Google Pixel 7",
+        "productImage": "https://i.ibb.co.com/J2cD7r7/download.jpg",
+        "category": "phones",
+        "price": 499,
+        "description": "Google's flagship phone with a clean Android experience and excellent camera.",
+        "specification": ["6.4-inch OLED display", "128GB storage", "Dual-camera system"],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "productId": 4,
+        "productTitle": "OnePlus 10 Pro",
+        "productImage": "https://i.ibb.co.com/998K9WS/download.jpg",
+        "category": "phones",
+        "price": 899,
+        "description": "OnePlus's top-tier phone with ultra-fast charging and a brilliant display.",
+        "specification": ["6.7-inch Fluid AMOLED display", "256GB storage", "Triple-camera system"],
+        "availability": false,
+        "rating": 4.7
+    },
+    {
+        "productId": 5,
+        "productTitle": "Sony Xperia 5 IV",
+        "productImage": "https://i.ibb.co.com/3YNF6rf/download.jpg",
+        "category": "phones",
+        "price": 650,
+        "description": "Sony's compact flagship phone with top-tier camera features.",
+        "specification": ["6.1-inch OLED display", "128GB storage", "Triple-camera system"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "productId": 6,
+        "productTitle": "Xiaomi Mi 12 Ultra",
+        "productImage": "https://i.ibb.co.com/KWRgtHW/download.jpg",
+        "category": "phones",
+        "price": 999,
+        "description": "Xiaomi's high-end phone with top performance and Leica cameras.",
+        "specification": ["6.8-inch AMOLED display", "512GB storage", "Quad-camera system"],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "productId": 7,
+        "productTitle": "MacBook Pro 16",
+        "productImage": "https://i.ibb.co.com/2ZjFh0j/download.jpg",
+        "category": "computers",
+        "price": 2400,
+        "description": "Apple's powerful laptop for professionals with the M1 Pro chip.",
+        "specification": ["16-inch Retina display", "16GB RAM", "512GB SSD"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "productId": 8,
+        "productTitle": "Dell XPS 13",
+        "productImage": "https://i.ibb.co.com/RTRrjHM/download.jpg",
+        "category": "computers",
+        "price": 1100,
+        "description": "Dell's sleek and portable laptop with a nearly bezel-free display.",
+        "specification": ["13.4-inch FHD+ display", "8GB RAM", "256GB SSD"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "productId": 9,
+        "productTitle": "Anker PowerWave Charger",
+        "productImage": "https://i.ibb.co.com/8BTzqNV/download.jpg",
+        "category": "accessories",
+        "price": 60,
+        "description": "A wireless charger with fast charging capabilities and a slim design.",
+        "specification": ["15W charging speed", "Qi-compatible", "LED indicator"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "productId": 10,
+        "productTitle": "JBL Flip 5 Bluetooth Speaker",
+        "productImage": "https://i.ibb.co.com/YhmqftW/download.jpg",
+        "category": "accessories",
+        "price": 85,
+        "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
+        "specification": ["12-hour battery life", "Waterproof", "Bluetooth 5.0"],
+        "availability": true,
+        "rating": 4.4
+    }
+]
