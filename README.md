@@ -1,6 +1,6 @@
 # GadgetHeaven - E-Commerce Platform
 
-**Live Website**: https://Ssiyam0123.github.io/Gadget-Heaven/
+**Live Website**: https://siyam-io.github.io/Gadget-Heaven/
 
 ## React Fundamental Concepts Used
 - **JSX**: Used for rendering HTML-like syntax in React components.
