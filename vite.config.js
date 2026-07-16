@@ -10,5 +10,5 @@ import react from '@vitejs/plugin-react';
 
 export default {
   plugins: [react()],
-  base: "/Gadget-Heaven/",
+  base: process.env.VERCEL ? '/' : "/Gadget-Heaven/",
 };

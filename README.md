@@ -1,6 +1,6 @@
-# GadgetHeaven - E-Commerce Platform
+﻿# GadgetHeaven - E-Commerce Platform
 
-**Live Website**: https://siyam-io.github.io/Gadget-Heaven/
+**Live Website**: https://siyam-gadget-heaven.vercel.app///
 
 ## React Fundamental Concepts Used
 - **JSX**: Used for rendering HTML-like syntax in React components.
@@ -21,5 +21,7 @@
 3. **Product Filtering**: Filters products based on categories or price range.
 4. **Sorting by Price**: Sort products in ascending or descending price order.
 5. **Dynamic Notifications**: Toast notifications for actions like adding to cart or purchasing items.
+
+
 
 
